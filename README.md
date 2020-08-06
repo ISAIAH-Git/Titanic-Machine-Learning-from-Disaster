@@ -1,6 +1,12 @@
 # Titanic-Machine-Learning-from-Disaster
 END TO END MACHINE LEARNING MODEL
 
+
+
+![](transcoder.png)
+
+
+
 # OVERVIEW :
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
