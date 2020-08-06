@@ -21,7 +21,7 @@ In this challenge, we ask you to build a predictive model that answers the quest
 It is your job to predict if a passenger survived the sinking of the Titanic or not.
  you must predict a 0 or 1 value for the variable.Compare various model and choose best one
  
- # LIFE CYCLED FOLLOWED :
+ # LIFE CYCLE FOLLOWED :
  
 1) DATA ACQUISITION
 2) EXPLAINATORY DATA ANALYSIS I.e EDA
